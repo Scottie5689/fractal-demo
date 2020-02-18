@@ -1,12 +1,10 @@
 ---
 title: Contributing Documentation
 ---
-Our goal is to make it easier for teams to design and develop great experiences for users across all UCLA applications.
-
-This site is a preview of the Bruin Components source. It's where we develop new features and components and is not always stable. 
+Our goal is to make it easier for teams to design and develop great experiences for users across all applications.
 
 ## Get Started
-Visit the Repo. https://bitbucket.org/uclaucomm/ucla-bruin-components/src/master/
+Visit the Repo. https://github.com/Scottie5689/fractal-demo.git
 
 Clone repository and run `npm install`
 

@@ -1,4 +1,4 @@
-# UCLA FRACTAL Components Library
+# HarborKnot Component Library
 
 This components library is currently in development and is not meant for use in production sites.
 
@@ -36,10 +36,8 @@ More on status can be found here, https://fractal.build/guide/core-concepts/stat
 
 ## To install via NPM
 
-This repository is currently private and requires an ssh key to install via NPM. To create a bitbucket ssh key follow these instructions, https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html
-
-After the ssh has been created run the following command:
+The Repo: https://github.com/Scottie5689/fractal-demo.git
 
 ```
-npm install ssh://bitbucket.org/uclaucomm/ucla-bruin-components.git --save
+npm install https://github.com/Scottie5689/fractal-demo.git --save
 ```

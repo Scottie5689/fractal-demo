@@ -22,9 +22,9 @@ myCustomisedTheme.addLoadPath(__dirname + '/src');
 fractal.web.theme(myCustomisedTheme);
 
 /* Set the title of the project */
-fractal.set('project.title', 'UCLA Component Library');
+fractal.set('project.title', 'HarborKnot Component Library');
 fractal.set('project.version', 'v1.0');
-fractal.set('project.author', 'Strategic Communications');
+fractal.set('project.author', 'Scott Vosburgh');
 
 /* Tell Fractal where the components will live */
 fractal.components.set('path', __dirname + '/src/components');

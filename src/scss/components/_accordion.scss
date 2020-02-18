@@ -32,12 +32,12 @@
 		&:hover {
 			.accordion__title-arrow,
 			.accordion__title-arrow.flip {
-				background: $hover-state;
+				background: $harborknot-blue-hover;
 			}
 		}
 
 		&:focus {
-			border-color: $hover-state;
+			border-color: $harborknot-blue-hover;
 		}
 
 		&-button {
@@ -61,7 +61,7 @@
 
 			&:focus {
 				outline-offset: -1px;
-				outline: 1px dotted $hover-state;
+				outline: 1px dotted $harborknot-blue-hover;
 			}
 
 			&:visited {
@@ -76,7 +76,7 @@
 
 	/* img tag is turned into svg using jquery */
 	&__title-arrow {
-		background: $default-state;
+		background: $harborknot-blue;
 		position: absolute;
 		color: #fff;
 		right: 0;
@@ -91,8 +91,8 @@
 
 		&:focus {
 			outline-offset: -3px;
-			background: $ucla-blue;
-			outline: 1px dotted $hover-state;
+			background: $harborknot-blue;
+			outline: 1px dotted $harborknot-blue-hover;
 		}
 
 		@media (min-width: 1024px) {
@@ -105,7 +105,7 @@
 
 		&.flip {
 			transform: rotate(180deg);
-			background: $default-state;
+			background: $harborknot-blue;
 		}
 	}
 
@@ -129,7 +129,7 @@
 		}
 
 		&.grey-bk {
-			background: $lightest-grey-2;
+			background: #777;
 			width: calc(100% + 48px);
 			margin-left: -24px;
 			padding: 0 24px;

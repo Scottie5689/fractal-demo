@@ -42,11 +42,11 @@
 
 .accordion__title:hover .accordion__title-arrow,
 .accordion__title:hover .accordion__title-arrow.flip {
-  background: #0079BF;
+  background: #1089d0;
 }
 
 .accordion__title:focus {
-  border-color: #0079BF;
+  border-color: #1089d0;
 }
 
 .accordion__title-button {
@@ -73,7 +73,7 @@
 
 .accordion__title-button:focus {
   outline-offset: -1px;
-  outline: 1px dotted #0079BF;
+  outline: 1px dotted #1089d0;
 }
 
 .accordion__title-button:visited {
@@ -85,7 +85,7 @@
 }
 
 .accordion__title-arrow {
-  background: #00598C;
+  background: #1e79ae;
   position: absolute;
   color: #fff;
   right: 0;
@@ -101,8 +101,8 @@
 
 .accordion__title-arrow:focus {
   outline-offset: -3px;
-  background: #2774AE;
-  outline: 1px dotted #0079BF;
+  background: #1e79ae;
+  outline: 1px dotted #1089d0;
 }
 
 @media (min-width: 1024px) {
@@ -117,7 +117,7 @@
 
 .accordion__title-arrow.flip {
   transform: rotate(180deg);
-  background: #00598C;
+  background: #1e79ae;
 }
 
 .accordion__content {
@@ -142,7 +142,7 @@
 }
 
 .accordion__content.grey-bk {
-  background: #EBEBEB;
+  background: #777;
   width: calc(100% + 48px);
   margin-left: -24px;
   padding: 0 24px;
@@ -181,7 +181,7 @@
 .btn {
   padding: 12px 16px 8px;
   color: white;
-  background: #00598C;
+  background: #1e79ae;
   font-size: 16px;
   font-weight: bold;
   border-radius: 2px;
@@ -189,18 +189,18 @@
 }
 
 .btn:hover {
-  background: #0079BF;
+  background: #1089d0;
   cursor: pointer;
 }
 
 .btn:active {
-  background: #003B5C;
+  background: #3c474b;
 }
 
 .btn--gold {
   padding: 12px 16px 8px;
   color: black;
-  background: #FFD100;
+  background: #1e79ae;
   font-size: 16px;
   font-weight: bold;
   border-radius: 2px;
@@ -208,7 +208,7 @@
 }
 
 .btn--gold:hover {
-  background: #FFE500;
+  background: #1089d0;
   cursor: pointer;
 }
 
@@ -228,18 +228,4 @@
   height: 15px;
   background: url("../img/white-play-button.svg") no-repeat 0 0;
   background-size: contain;
-}
-
-h1 {
-  color: #00598C;
-  font-size: 90px;
-}
-
-h2 {
-  color: teal;
-  font-size: 20px;
-}
-
-h4 {
-  display: none;
 }

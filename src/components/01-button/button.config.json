@@ -10,24 +10,6 @@
 					"copy": "Icon Button"
 				}
     	}
-		},
-		{
-			"name": "Gold",
-			"status": "prototype",
-			"context": {
-				"button": {
-					"copy": "Gold Button"
-				}
-    	}
-		},
-		{
-			"name": "Gold Icon",
-			"status": "prototype",
-			"context": {
-				"button": {
-					"copy": "Gold Icon Button"
-				}
-    	}
 		}
 	],
 	"status": "wip",

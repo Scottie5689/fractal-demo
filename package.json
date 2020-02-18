@@ -1,21 +1,20 @@
 {
-  "name": "ucla-bruin-components",
+  "name": "HarborKnot-Components",
   "version": "0.0.1",
-  "description": "UCLA Bruin Component Library, not ready for production use.",
+  "description": "HarborKnot Component Library, not ready for production use.",
   "license": "BSD-3-Clause",
   "main": "fractal.js",
-  "author": "UCLA Startegic Communications",
-  "homepage": "https://bitbucket.org/uclaucomm/ucla-bruin-components#readme",
+  "author": "Scott Vosburgh of HarborKnot",
+  "homepage": "https://github.com/Scottie5689/fractal-demo.git#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://scottiev@bitbucket.org/scottiev/ucla-bruin-components.git"
+    "url": "git+https://github.com/Scottie5689/fractal-demo.git"
   },
   "files": [
     "public/**/*"
   ],
   "bugs": {
-    "url": "https://bitbucket.org/uclaucomm/ucla-bruin-components/issues?status=new&status=open",
-    "email": "svosburgh@stratcomm.ucla.edu"
+    "url": "https://github.com/Scottie5689/fractal-demo.git"
   },
   "dependencies": {
     "@frctl/fractal": "^1.2.1",
