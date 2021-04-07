@@ -1,16 +1,16 @@
 ---
-title: HarborKnot Documentation Page 
+title: HarborKnot Documentation Page
 ---
 
-This is a example template on how to document your component to the repository guidelines. In this section give brief explanation of what your component is and does. 
+This is a example template on how to document your component to the repository guidelines. In this section give brief explanation of what your component is and does.
 
-Our goal is to make it easier for teams to design and develop great experiences for users across all UCLA applications.
+Our goal is to make it easier for teams to design and develop great experiences for users across all applications.
 
 
 ```
 // Class names must be BEM http://getbem.com/
 
-// Default 
+// Default
 <button class="btn">
   <span>Button Copy</span>
 </button>
