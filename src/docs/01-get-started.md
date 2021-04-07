@@ -1,27 +1,22 @@
 ---
 title: HarborKnot Components
 ---
-Our goal is to make it easier for teams to design and develop great experiences for users across the web and online applications.
 
-This site is the preview and documentation part of the HarborKnot components. It's where we develop new features and not all components are always stable. For that reason you should **always** reference the latest version of official [HarborKnot Component documentation](https://github.com/Scottie5689/fractal-demo.git).
+This is a Fractal starter kit with a simple component and documentation example. Gulp has been installed for compiling assets. Please see the readme file of the repository for the gulp commands.
 
+This kit is ready for continued development and running `npm update` will update your fractal installation and packages to the latest version.
 
-## What Are We Doing Here?
+## Why did I build this?
 
-This is where we'll be putting our components through their paces—designing, developing, testing, and eventually distributing them as part of the package.
+I am a frontend web developer and have been experimenting with component libraries. I am making some of this work public.
 
-We are using [Fractal](http://fractal.build/) to build and document. Fractal is a component library generator written in Node.js.
+## Getting started
+
+This environment is [Fractal](http://fractal.build/). Fractal is a component library generator written in Node.js.
 
 - [More about Fractal](http://fractal.build/guide)
 - [Fractal Installation guide](http://fractal.build/guide/installation) (Node.js required)
 
-This Repository uses Fractal and Gulp.
-
-## Getting started
-
-### CDN
-
-Coming Soon.
 
 
 ### To install via NPM
@@ -29,5 +24,3 @@ Coming Soon.
 ```
 npm install https://github.com/Scottie5689/fractal-demo.git --save
 ```
-
-
