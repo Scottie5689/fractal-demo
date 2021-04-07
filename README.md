@@ -1,6 +1,8 @@
-# HarborKnot Component Library
+# Component Library Starter Kit
 
-This components library is currently in development and is not meant for use in production sites.
+This is a Fractal starter kit with a simple component and documentation example. Gulp has been installed for compiling assets.
+
+This kit is ready for continued development and running npm update will update your fractal installation and packages to the latest version.
 
 **Read the Fractal documentation at http://fractal.build/guide.**
 
@@ -41,3 +43,5 @@ The Repo: https://github.com/Scottie5689/fractal-demo.git
 ```
 npm install https://github.com/Scottie5689/fractal-demo.git --save
 ```
+
+This kit was built by [Scott Vosburgh](https://github.com/Scottie5689/fractal-demo)
